@@ -18,7 +18,7 @@ go test go_unittest/services -v -run="TestCheckGrade/should_success_when_inputGr
 
 3. Run check test coverage
 ```
-go test go_unittest/services -cover
+go test go_unittest/services -cover -v
 ```
 
 
